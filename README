@@ -1,0 +1,5 @@
+Licence: CCO
+The system must already contain an OpenAI key to work,
+In Windows the command is: setx OPENAI_API_KEY "your_api_key_here".
+More info: 
+https://platform.openai.com/docs/quickstart
